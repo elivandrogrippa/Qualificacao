@@ -10,7 +10,7 @@ Os resultados foram resumidos em tabelas e perfis de desempenho para as diferent
 
 ## 📌 Resultados Apresentados  
 Os experimentos foram realizados em duas classes de matrizes:  
-1. **Matrizes Sintéticas** (utilizado por [Oviedo](https://dx.doi.org/10.1007/s10589-019-00125-6))
+1. **Matrizes Sintéticas** (utilizadas por [Oviedo](https://dx.doi.org/10.1007/s10589-019-00125-6))
 2. **Matrizes da coletânea [SuiteSparse](https://sparse.tamu.edu/)**  
 
 Os resultados foram apresentados na defesa de mestrado em **17 de fevereiro de 2025**.  
