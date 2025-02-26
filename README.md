@@ -27,5 +27,5 @@ Os perfis de desempenho foram gerados para avaliar a eficiência dos métodos em
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/elivandrogrippa/Qualificacao.git
-   cd Qualificacao]
+   cd Qualificacao
 2. Execute os códigos iniciados em "Testes" no prompt Julia. 
