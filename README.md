@@ -19,7 +19,7 @@ Os resultados foram apresentados na defesa de mestrado em **17 de fevereiro de 2
 Os perfis de desempenho foram gerados para avaliar a eficiência dos métodos em diferentes cenários.  
 
 ## 📁 Organização do Repositório  
-- `Sintéticas/` - Contém os códigos e resultados correspondentes as matrizes sintéticas.  
+- `Sinteticas/` - Contém os códigos e resultados correspondentes as matrizes sintéticas.  
 - `SuiteSparse/`- Contém os códigos e resultados correspondentes as matrizes da coletânea _SuiteSparse_.   
 - `Figuras/` - Contém os perfis de desempenho para os problemas gerais, estruturais e não estruturais.
   
