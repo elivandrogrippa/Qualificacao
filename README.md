@@ -1,4 +1,4 @@
-# Comparação de Métodos Iterativos para a minimização de quadráticas estritamente convexas
+# Comparação entre Métodos Iterativos para a minimização de quadráticas estritamente convexas
 
 Este repositório contém um compilado dos principais testes comparando três métodos iterativos para problemas quadráticos:
 
@@ -10,7 +10,7 @@ Os resultados foram resumidos em tabelas e perfis de desempenho para as diferent
 
 ## 📌 Resultados Apresentados  
 Os experimentos foram realizados em duas classes de matrizes:  
-1. **Matrizes Sintéticas** (utilizado por [Oviedo](https://dx.doi.org/10.1007/s10589-019-00125-6) em testes numéricos)
+1. **Matrizes Sintéticas** (utilizado por [Oviedo](https://dx.doi.org/10.1007/s10589-019-00125-6))
 2. **Matrizes da coletânea [SuiteSparse](https://sparse.tamu.edu/)**  
 
 Os resultados foram apresentados na defesa de mestrado em **17 de fevereiro de 2025**.  
@@ -20,12 +20,12 @@ Os perfis de desempenho foram gerados para avaliar a eficiência dos métodos em
 
 ## 📁 Organização do Repositório  
 - `Sintéticas/` - Contém os códigos e resultados correspondentes as matrizes sintéticas.  
-- `SuiteSparse/`- Códigos e resultados para os experimentos das matrizes da coletânea SuiteSparse.  
-- `Figuras/` - Encontra-se os perfis de desempenho para os problemas totais, com classificação estrutural e não estrutural.
+- `SuiteSparse/`- Contém os códigos e resultados correspondentes as matrizes da coletânea _SuiteSparse_.   
+- `Figuras/` - Contém os perfis de desempenho para os problemas gerais, estruturais e não estruturais.
   
 ## 🚀 Como Reproduzir os Testes  
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/elivandrogrippa/Qualificacao.git
    cd Qualificacao]
-2. Execute os códigos iniciados como "Testes_" no prompt Julia. 
+2. Execute os códigos iniciados em "Testes" no prompt Julia. 
