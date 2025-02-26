@@ -3,7 +3,7 @@
 Este repositório contém um compilado dos principais testes comparando três métodos iterativos para problemas quadráticos:
 
 - **Método de Gradientes Conjugados (CG)** (com parâmetro de conjugação [Fletcher-Reeves](https://doi.org/10.1093/comjnl/7.2.149))
-- **Método de Resíduos Conjugados (CR)**  (proposto por [Stiefel](https://dx.doi.org/10.1007/bf02564277))
+- **Método de Resíduos Conjugados (CR)**  (proposto por [Stiefel](https://dx.doi.org/10.1007/bf02564277), mas também discutido por [Sogabe](https://link.springer.com/book/10.1007/978-981-19-8532-4))
 - **Método do Gradiente Ponderado com Atraso** (proposto por [Luenberguer](https://doi.org/10.1137/0707032)-[Oviedo](https://dx.doi.org/10.1007/s10589-019-00125-6))
 
 Os resultados foram resumidos em tabelas e perfis de desempenho para as diferentes classes de matrizes.
