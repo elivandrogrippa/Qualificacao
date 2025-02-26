@@ -1,0 +1,92 @@
+id,ano,nome,grupo,n,nnz,tipo,grupo_nome
+1211,2004,t3dl_e,Oberwolfach,20360,20360,Duplicate Model Reduction Problem,Oberwolfach/t3dl_e
+341,1995,bcsstk36,Boeing,23052,1143140,Structural Problem,Boeing/bcsstk36
+362,1995,msc23052,Boeing,23052,1142686,Structural Problem,Boeing/msc23052
+355,1995,crystm03,Boeing,24696,583770,Materials Problem,Boeing/crystm03
+1909,2008,smt,TKK,25710,3749582,Structural Problem,TKK/smt
+1283,1999,thread,DNVS,29736,4444880,Structural Problem,DNVS/thread
+1288,2004,wathen100,GHS_psdef,30401,471601,Random 2D/3D Problem,GHS_psdef/wathen100
+1277,1999,ship_001,DNVS,34920,3896496,Structural Problem,DNVS/ship_001
+938,2003,nd12k,ND,36000,14220946,2D/3D Problem,ND/nd12k
+2373,2008,pdb1HYS,Williams,36417,4344765,Weighted Undirected Graph,Williams/pdb1HYS
+1289,2004,wathen120,GHS_psdef,36441,565761,Random 2D/3D Problem,GHS_psdef/wathen120
+1312,1991,jnlbrng1,GHS_psdef,40000,199200,Optimization Problem,GHS_psdef/jnlbrng1
+1314,1983,obstclae,GHS_psdef,40000,197608,Optimization Problem,GHS_psdef/obstclae
+1315,1983,torsion1,GHS_psdef,40000,197608,Duplicate Optimization Problem,GHS_psdef/torsion1
+1313,2000,minsurfo,GHS_psdef,40806,203622,Optimization Problem,GHS_psdef/minsurfo
+349,1995,bcsstm39,Boeing,46772,46772,Structural Problem,Boeing/bcsstm39
+1287,2004,vanbody,GHS_psdef,47072,2329056,Structural Problem,GHS_psdef/vanbody
+1311,1991,gridgena,GHS_psdef,48962,512084,Optimization Problem,GHS_psdef/gridgena
+1310,1995,cvxbqp1,GHS_psdef,50000,349968,Optimization Problem,GHS_psdef/cvxbqp1
+356,1995,ct20stif,Boeing,52329,2600295,Structural Problem,Boeing/ct20stif
+1257,2004,crankseg_1,GHS_psdef,52804,10614210,Structural Problem,GHS_psdef/crankseg_1
+761,1995,nasasrb,Nasa,54870,2677324,Structural Problem,Nasa/nasasrb
+2375,2008,cant,Williams,62451,4007383,2D/3D Problem,Williams/cant
+1258,2004,crankseg_2,GHS_psdef,63838,14148858,Structural Problem,GHS_psdef/crankseg_2
+1848,2007,Dubcova2,UTEP,65025,1030225,2D/3D Problem,UTEP/Dubcova2
+845,2002,qa8fm,Cunningham,66127,1660579,Acoustics Problem,Cunningham/qa8fm
+804,1997,cfd1,Rothberg,70656,1825580,Computational Fluid Dynamics Problem,Rothberg/cfd1
+939,2003,nd24k,ND,72000,28715634,2D/3D Problem,ND/nd24k
+1270,2004,oilpan,GHS_psdef,73752,2148558,Structural Problem,GHS_psdef/oilpan
+752,1997,finan512,Mulvey,74752,596992,Economic Problem,Mulvey/finan512
+1422,2006,apache1,GHS_psdef,80800,542184,Structural Problem,GHS_psdef/apache1
+2261,2009,shallow_water1,MaxPlanck,81920,327680,Computational Fluid Dynamics Problem,MaxPlanck/shallow_water1
+2262,2009,shallow_water2,MaxPlanck,81920,327680,Computational Fluid Dynamics Problem,MaxPlanck/shallow_water2
+1402,2006,thermal1,Schmid,82654,574458,Thermal Problem,Schmid/thermal1
+2374,2008,consph,Williams,83334,6010480,2D/3D Problem,Williams/consph
+1892,2008,denormal,Castrillon,89400,1156224,Counter Example Problem,Castrillon/denormal
+1275,1997,s3dkq4m2,GHS_psdef,90449,4427725,Structural Problem,GHS_psdef/s3dkq4m2
+1276,1997,s3dkt3m2,GHS_psdef,90449,3686223,Structural Problem,GHS_psdef/s3dkt3m2
+1269,1999,m_t1,DNVS,97578,9753570,Structural Problem,DNVS/m_t1
+1919,2008,2cubes_sphere,Um,101492,1647264,Electromagnetics Problem,Um/2cubes_sphere
+2257,2009,thermomech_TC,Botonakis,102158,711558,Thermal Problem,Botonakis/thermomech_TC
+2258,2009,thermomech_TK,Botonakis,102158,711558,Thermal Problem,Botonakis/thermomech_TK
+1290,1999,x104,DNVS,108384,8713602,Structural Problem,DNVS/x104
+1281,1999,shipsec8,DNVS,114919,3303553,Structural Problem,DNVS/shipsec8
+1278,1999,ship_003,DNVS,121728,3777036,Structural Problem,DNVS/ship_003
+805,1997,cfd2,Rothberg,123440,3085406,Computational Fluid Dynamics Problem,Rothberg/cfd2
+1454,2006,boneS01,Oberwolfach,127224,5516602,Model Reduction Problem,Oberwolfach/boneS01
+1279,1999,shipsec1,DNVS,140874,3568176,Structural Problem,DNVS/shipsec1
+1253,2004,bmw7st_1,GHS_psdef,141347,7318399,Structural Problem,GHS_psdef/bmw7st_1
+1849,2007,Dubcova3,UTEP,146689,3636643,2D/3D Problem,UTEP/Dubcova3
+1254,2004,bmwcra_1,GHS_psdef,148770,10641602,Structural Problem,GHS_psdef/bmwcra_1
+1412,2006,G2_circuit,AMD,150102,726674,Circuit Simulation Problem,AMD/G2_circuit
+1280,1999,shipsec5,DNVS,179860,4598604,Structural Problem,DNVS/shipsec5
+2259,2009,thermomech_dM,Botonakis,204316,1423116,Thermal Problem,Botonakis/thermomech_dM
+369,1995,pwtk,Boeing,217918,11524432,Structural Problem,Boeing/pwtk
+1266,2004,hood,GHS_psdef,220542,9895422,Structural Problem,GHS_psdef/hood
+1850,2007,BenElechi1,BenElechi,245874,13150496,2D/3D Problem,BenElechi/BenElechi1
+2283,2010,offshore,Um,259789,4242673,Electromagnetics Problem,Um/offshore
+1644,2005,msdoor,INPRO,415863,19173163,Structural Problem,INPRO/msdoor
+1580,2006,af_0_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_0_k101
+1581,2006,af_1_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_1_k101
+1582,2006,af_2_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_2_k101
+1583,2006,af_3_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_3_k101
+1584,2006,af_4_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_4_k101
+1585,2006,af_5_k101,Schenk_AFE,503625,17550675,Structural Problem,Schenk_AFE/af_5_k101
+1267,2004,inline_1,GHS_psdef,503712,36816170,Structural Problem,GHS_psdef/inline_1
+942,2003,af_shell3,Schenk_AFE,504855,17562051,Subsequent Structural Problem,Schenk_AFE/af_shell3
+943,2003,af_shell4,Schenk_AFE,504855,17562051,Subsequent Structural Problem,Schenk_AFE/af_shell4
+946,2003,af_shell7,Schenk_AFE,504855,17579155,Subsequent Structural Problem,Schenk_AFE/af_shell7
+947,2003,af_shell8,Schenk_AFE,504855,17579155,Subsequent Structural Problem,Schenk_AFE/af_shell8
+2664,2015,bundle_adj,Mazaheri,513351,20207907,Computer Vision Problem,Mazaheri/bundle_adj
+1853,2007,parabolic_fem,Wissgott,525825,3674625,Computational Fluid Dynamics Problem,Wissgott/parabolic_fem
+2543,2011,Fault_639,Janna,638802,27245944,Structural Problem,Janna/Fault_639
+1423,2006,apache2,GHS_psdef,715176,4817870,Structural Problem,GHS_psdef/apache2
+1899,2008,tmt_sym,CEMW,726713,5080961,Electromagnetics Problem,CEMW/tmt_sym
+2661,2014,PFlow_742,Janna,742793,37138461,2D/3D Problem,Janna/PFlow_742
+1455,2006,boneS10,Oberwolfach,914898,40878708,Model Reduction Problem,Oberwolfach/boneS10
+2542,2011,Emilia_923,Janna,923136,40373538,Structural Problem,Janna/Emilia_923
+1252,2004,audikw_1,GHS_psdef,943695,77651847,Structural Problem,GHS_psdef/audikw_1
+1268,2004,ldoor,GHS_psdef,952203,42493817,Structural Problem,GHS_psdef/ldoor
+1453,2006,bone010,Oberwolfach,986703,47851783,Model Reduction Problem,Oberwolfach/bone010
+1883,2008,ecology2,McRae,999999,4995991,2D/3D Problem,McRae/ecology2
+1403,2006,thermal2,Schmid,1228045,8580313,Thermal Problem,Schmid/thermal2
+2541,2011,Serena,Janna,1391349,64131971,Structural Problem,Janna/Serena
+2545,2011,Geo_1438,Janna,1437960,60236322,Structural Problem,Janna/Geo_1438
+2547,2011,StocF-1465,Janna,1465137,21005389,Computational Fluid Dynamics Problem,Janna/StocF-1465
+2546,2011,Hook_1498,Janna,1498023,59374451,Structural Problem,Janna/Hook_1498
+2544,2011,Flan_1565,Janna,1564794,114165372,Structural Problem,Janna/Flan_1565
+1421,2006,G3_circuit,AMD,1585478,7660826,Circuit Simulation Problem,AMD/G3_circuit
+2659,2014,Bump_2911,Janna,2911419,127729899,2D/3D Problem,Janna/Bump_2911
+2660,2014,Queen_4147,Janna,4147110,316548962,2D/3D Problem,Janna/Queen_4147
