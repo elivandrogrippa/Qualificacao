@@ -1,4 +1,4 @@
-# Comparação entre Métodos Iterativos para a minimização de quadráticas estritamente convexas
+# Comparação entre métodos iterativos para a minimização de quadráticas estritamente convexas
 
 Este repositório contém um compilado dos principais testes comparando três métodos iterativos para problemas quadráticos:
 
